@@ -28,7 +28,7 @@ https://github.com/gumption/Using_Biopython_Entrez/blob/master/Biopython_Tutoria
 #import os
 from Bio import Entrez
 import time
-Entrez.email = 'alastairrobertplant@gmail.com'
+Entrez.email = 'myemail@domain.com'
 
 
 #Read input terms from file "input.txt" into a list; input file contains one term per line
